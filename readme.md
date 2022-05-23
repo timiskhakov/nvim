@@ -4,6 +4,7 @@
 
 - Neovim 0.7
 - [ripgrep](https://github.com/BurntSushi/ripgrep) for Telescope
+- [A nerd font](https://www.nerdfonts.com) for NvimTree
 
 ## Installation
 
