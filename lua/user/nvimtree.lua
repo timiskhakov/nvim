@@ -4,4 +4,8 @@ if not status_ok then
 end
 
 nvimtree.setup {
+	view = {
+		width = 40,
+		side = "right"
+	}
 }

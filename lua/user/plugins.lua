@@ -33,7 +33,7 @@ return packer.startup(function(use)
 	-- General
 	use "wbthomason/packer.nvim" -- Have packer manage itself
 	use "nvim-lua/plenary.nvim" -- Dependency for other lua plugins
-	use "folke/tokyonight.nvim"
+	use "ellisonleao/gruvbox.nvim"
 
 	-- Completion
 	use "hrsh7th/nvim-cmp" -- The completion plugin
